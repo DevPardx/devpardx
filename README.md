@@ -1,25 +1,133 @@
-# 👋 Hi, I'm Diego Pardo
+# Diego Pardo
 
-## Fullstack Developer | Building MVPs for Startups
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Fullstack+Developer;MVP+Specialist+for+Startups;Building+Production-Ready+Solutions)](https://git.io/typing-svg)
 
-I help non-technical founders launch their products in 4 weeks.
+**Transforming ideas into production-ready products in 4 weeks**
 
-### 🛠️ Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, PostgreSQL
-- **DevOps:** Vercel, DigitalOcean, Docker
+[![Website](https://img.shields.io/badge/🌐_Website-quickstack.agency-6366F1?style=for-the-badge)](https://quickstack.agency)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-pardx/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technology@quickstack.agency)
 
-### 🚀 Recent Projects
-- Mossbros - Full-stack motorcycle repair shop management system. Built with React 19 + TypeScript frontend and Node.js/Express + PostgreSQL backend. Features customer management, motorcycle inventory, service catalog, 6-state repair workflow with automatic cost calculation, and analytics dashboard. Modern architecture with TanStack Query, TypeORM, Redis, and JWT authentication. Stack: React • TypeScript • Node.js • PostgreSQL • Redis • TanStack Query • Tailwind CSS ([Demo](https://mossbrossv.com))
-
-- AuthenticDoc - Decentralized document signing and management platform built on the Nostr protocol. PWA application with Rust/WebAssembly offering end-to-end encryption (NIP-44), multi-party signing, self-sovereign identity, and offline support via IndexedDB. Integrates Bitcoin Lightning Network and fiat payment gateways. No central servers - users maintain complete control over their data and cryptographic keys. Stack: Rust • WebAssembly (Yew) • Nostr Protocol • Bitcoin Lightning • AWS S3 • Axum ([Demo](https://authenticdoc.online))
-
-- Grupo Marketing - B2B corporate website for a trade marketing agency in El Salvador. Static site generation with Astro for optimal performance, dynamic service pages, mobile-first responsive design, and direct WhatsApp integration for lead generation. SEO-optimized with Open Graph meta tags and Spanish localization. Stack: Astro 5 • React 19 • Tailwind CSS 4 • TypeScript • Radix UI. ([Demo](https://www.grupomarketingsv.com/))
-
-### 📫 Let's Connect
-- Website: [quickstack.agency](https://quickstack.agency)
-- Email: technology@quickstack.agency
-- LinkedIn: [My Profile](https://www.linkedin.com/in/dev-pardx/)
+</div>
 
 ---
-💼 Currently available for new projects starting January.
+
+## 🎯 What I Do
+
+I specialize in **rapid MVP development** for non-technical founders and startups. My approach combines modern technology stacks with lean methodology to deliver production-ready applications that validate business ideas quickly and cost-effectively.
+
+**Why work with me?**
+- ⚡ **Fast Delivery**: 4-week MVP cycles from concept to deployment
+- 🎨 **Full-Stack Expertise**: End-to-end development with modern tech
+- 📈 **Business-Focused**: Solutions designed for scalability and growth
+- 💼 **Startup Experience**: Deep understanding of lean methodology and iteration
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏍️ [Mossbros](https://mossbrossv.com) - Motorcycle Shop Management System
+> **Full-stack SaaS platform for motorcycle repair shops**
+
+**Key Features:**
+- 🔧 Complete customer & motorcycle inventory management
+- 📊 6-state repair workflow with automatic cost calculation
+- 📈 Real-time analytics dashboard
+- 🔐 JWT authentication with role-based access
+
+**Tech Stack:**  
+`React 19` • `TypeScript` • `Node.js` • `PostgreSQL` • `Redis` • `TanStack Query` • `Tailwind CSS` • `TypeORM`
+
+---
+
+### 📄 [AuthenticDoc](https://authenticdoc.online) - Decentralized Document Platform
+> **Web3 document signing powered by Nostr protocol**
+
+**Key Features:**
+- 🔒 End-to-end encryption (NIP-44)
+- ✍️ Multi-party digital signatures
+- 🌐 Fully decentralized - no central servers
+- ⚡ Bitcoin Lightning Network integration
+- 📱 PWA with offline support
+
+**Tech Stack:**  
+`Rust` • `WebAssembly (Yew)` • `Nostr Protocol` • `Bitcoin Lightning` • `AWS S3` • `Axum` • `IndexedDB`
+
+---
+
+### 🎯 [Grupo Marketing](https://www.grupomarketingsv.com) - Corporate Website
+> **High-performance B2B marketing agency website**
+
+**Key Features:**
+- ⚡ Static Site Generation for optimal performance
+- 📱 Mobile-first responsive design
+- 🔍 SEO-optimized with Open Graph integration
+- 💬 Direct WhatsApp lead generation
+
+**Tech Stack:**  
+`Astro 5` • `React 19` • `Tailwind CSS 4` • `TypeScript` • `Radix UI`
+
+---
+
+## 💼 Currently Available
+
+<div align="center">
+
+### 🟢 Open for New Projects - Starting January 2025
+
+I'm accepting new MVP development projects for startups and founders looking to validate their ideas quickly.
+
+**Let's build something amazing together!**
+
+[![Get in Touch](https://img.shields.io/badge/📧_Get_in_Touch-technology@quickstack.agency-6366F1?style=for-the-badge)](mailto:technology@quickstack.agency)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-quickstack.agency-6366F1?style=for-the-badge)](https://quickstack.agency)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Pardo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-pardx/)
+[![Email](https://img.shields.io/badge/Email-technology@quickstack.agency-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technology@quickstack.agency)
+
+---
+
+⭐ **If you find my work interesting, consider giving a star to my repositories!**
+
+*Last updated: December 2025*
+
+</div>
