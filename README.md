@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-quickstack.agency-6366F1?style=for-the-badge)](https://quickstack.agency)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-pardx/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technology@quickstack.agency)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@quickstack.agency)
 
 </div>
 
@@ -86,20 +86,6 @@ I specialize in **rapid MVP development** for non-technical founders and startup
 
 ---
 
-### 🎯 [Grupo Marketing](https://www.grupomarketingsv.com) - Corporate Website
-> **High-performance B2B marketing agency website**
-
-**Key Features:**
-- ⚡ Static Site Generation for optimal performance
-- 📱 Mobile-first responsive design
-- 🔍 SEO-optimized with Open Graph integration
-- 💬 Direct WhatsApp lead generation
-
-**Tech Stack:**  
-`Astro 5` • `React 19` • `Tailwind CSS 4` • `TypeScript` • `Radix UI`
-
----
-
 ## 💼 Currently Available
 
 <div align="center">
@@ -110,7 +96,7 @@ I'm accepting new MVP development projects for startups and founders looking to 
 
 **Let's build something amazing together!**
 
-[![Get in Touch](https://img.shields.io/badge/📧_Get_in_Touch-technology@quickstack.agency-6366F1?style=for-the-badge)](mailto:technology@quickstack.agency)
+[![Get in Touch](https://img.shields.io/badge/📧_Get_in_Touch-technology@quickstack.agency-6366F1?style=for-the-badge)](mailto:diego@quickstack.agency)
 
 </div>
 
@@ -122,7 +108,7 @@ I'm accepting new MVP development projects for startups and founders looking to 
 
 [![Website](https://img.shields.io/badge/🌐_Portfolio-quickstack.agency-6366F1?style=for-the-badge)](https://quickstack.agency)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Pardo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-pardx/)
-[![Email](https://img.shields.io/badge/Email-technology@quickstack.agency-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technology@quickstack.agency)
+[![Email](https://img.shields.io/badge/Email-technology@quickstack.agency-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@quickstack.agency)
 
 ---
 
