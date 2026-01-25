@@ -96,7 +96,7 @@ I'm accepting new MVP development projects for startups and founders looking to 
 
 **Let's build something amazing together!**
 
-[![Get in Touch](https://img.shields.io/badge/📧_Get_in_Touch-technology@quickstack.agency-6366F1?style=for-the-badge)](mailto:diego@quickstack.agency)
+[![Get in Touch](https://img.shields.io/badge/📧_Get_in_Touch-diego@quickstack.agency-6366F1?style=for-the-badge)](mailto:diego@quickstack.agency)
 
 </div>
 
@@ -106,9 +106,9 @@ I'm accepting new MVP development projects for startups and founders looking to 
 
 ### 🤝 Let's Connect
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-quickstack.agency-6366F1?style=for-the-badge)](https://quickstack.agency)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-diegopardo.vercel.app-6366F1?style=for-the-badge)](https://diegopardo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Pardo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-pardx/)
-[![Email](https://img.shields.io/badge/Email-technology@quickstack.agency-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@quickstack.agency)
+[![Email](https://img.shields.io/badge/Email-diego@quickstack.agency-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@quickstack.agency)
 
 ---
 
