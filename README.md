@@ -2,27 +2,21 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Fullstack+Developer;MVP+Specialist+for+Startups;Building+Production-Ready+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Building+Production-Ready+Solutions)](https://git.io/typing-svg)
 
 **Transforming ideas into production-ready products in 4 weeks**
 
-[![Website](https://img.shields.io/badge/🌐_Website-quickstack.agency-6366F1?style=for-the-badge)](https://quickstack.agency)
+[![Website](https://img.shields.io/badge/🌐_Website-idesignsv.com-6366F1?style=for-the-badge)](https://idesignsv.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-pardx/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@quickstack.agency)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@idesignsv.com)
 
 </div>
 
 ---
 
-## 🎯 What I Do
-
-I specialize in **rapid MVP development** for non-technical founders and startups. My approach combines modern technology stacks with lean methodology to deliver production-ready applications that validate business ideas quickly and cost-effectively.
-
 **Why work with me?**
-- ⚡ **Fast Delivery**: 4-week MVP cycles from concept to deployment
 - 🎨 **Full-Stack Expertise**: End-to-end development with modern tech
 - 📈 **Business-Focused**: Solutions designed for scalability and growth
-- 💼 **Startup Experience**: Deep understanding of lean methodology and iteration
 
 ---
 
@@ -86,29 +80,13 @@ I specialize in **rapid MVP development** for non-technical founders and startup
 
 ---
 
-## 💼 Currently Available
-
-<div align="center">
-
-### 🟢 Open for New Projects - Starting January 2025
-
-I'm accepting new MVP development projects for startups and founders looking to validate their ideas quickly.
-
-**Let's build something amazing together!**
-
-[![Get in Touch](https://img.shields.io/badge/📧_Get_in_Touch-diego@quickstack.agency-6366F1?style=for-the-badge)](mailto:diego@quickstack.agency)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect
 
 [![Website](https://img.shields.io/badge/🌐_Portfolio-diegopardo.vercel.app-6366F1?style=for-the-badge)](https://diegopardo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Pardo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-pardx/)
-[![Email](https://img.shields.io/badge/Email-diego@quickstack.agency-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@quickstack.agency)
+[![Email](https://img.shields.io/badge/Email-diego@idesignsv.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@idesignsv.com)
 
 ---
 
