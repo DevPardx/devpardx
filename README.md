@@ -1,14 +1,12 @@
 # Diego Pardo
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Building+Production-Ready+Solutions)](https://git.io/typing-svg)
 
-**Transforming ideas into production-ready products in 4 weeks**
-
-[![Website](https://img.shields.io/badge/🌐_Website-idesignsv.com-6366F1?style=for-the-badge)](https://idesignsv.com)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-diego--pardo.vercel.app-6366F1?style=for-the-badge)](https://diego-pardo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-pardx/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@idesignsv.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineer.pardo@gmail.com)
 
 </div>
 
@@ -43,7 +41,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -52,7 +49,7 @@
 ## 🚀 Featured Projects
 
 ### 🏍️ [Mossbros](https://mossbrossv.com) - Motorcycle Shop Management System
-> **Full-stack SaaS platform for motorcycle repair shops**
+> **Full-stack platform for motorcycle repair shops**
 
 **Key Features:**
 - 🔧 Complete customer & motorcycle inventory management
@@ -60,23 +57,22 @@
 - 📈 Real-time analytics dashboard
 - 🔐 JWT authentication with role-based access
 
-**Tech Stack:**  
+**Tech Stack:**
 `React 19` • `TypeScript` • `Node.js` • `PostgreSQL` • `Redis` • `TanStack Query` • `Tailwind CSS` • `TypeORM`
 
 ---
 
-### 📄 [AuthenticDoc](https://authenticdoc.online) - Decentralized Document Platform
-> **Web3 document signing powered by Nostr protocol**
+### 🏠 Raiz - Real Estate Platform *(In Progress)*
+> **Property marketplace with smart matching and streamlined transactions**
 
 **Key Features:**
-- 🔒 End-to-end encryption (NIP-44)
-- ✍️ Multi-party digital signatures
-- 🌐 Fully decentralized - no central servers
-- ⚡ Bitcoin Lightning Network integration
-- 📱 PWA with offline support
+- 🔍 Smart property matching algorithms
+- 🏘️ Virtual tour integration
+- 📊 Streamlined buyer-seller transaction pipeline
+- 💡 Intelligent property recommendations
 
-**Tech Stack:**  
-`Rust` • `WebAssembly (Yew)` • `Nostr Protocol` • `Bitcoin Lightning` • `AWS S3` • `Axum` • `IndexedDB`
+**Tech Stack:**
+`Next.js` • `TypeScript` • `Tailwind CSS` • `PostgreSQL` • `Prisma`
 
 ---
 
@@ -84,14 +80,14 @@
 
 ### 🤝 Let's Connect
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-diegopardo.vercel.app-6366F1?style=for-the-badge)](https://diegopardo.vercel.app)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-diego--pardo.vercel.app-6366F1?style=for-the-badge)](https://diego-pardo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Pardo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-pardx/)
-[![Email](https://img.shields.io/badge/Email-diego@idesignsv.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@idesignsv.com)
+[![Email](https://img.shields.io/badge/Email-engineer.pardo@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineer.pardo@gmail.com)
 
 ---
 
 ⭐ **If you find my work interesting, consider giving a star to my repositories!**
 
-*Last updated: December 2025*
+*Last updated: February 2026*
 
 </div>
